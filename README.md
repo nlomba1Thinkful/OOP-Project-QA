@@ -1,5 +1,5 @@
 OOP Project-QA
-* Java (BackEnd)
+* Java 
 * Git
 * JUnit 
 * Spring Boot
